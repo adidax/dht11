@@ -1,0 +1,20 @@
+{
+  "name": "DHT11",
+  "keywords": "dht, humidity, temperature, sensor",
+  "description": "This library interfaces with the DHT11 low-cost temperature and humidity sensor",
+  "authors": {
+    "name": "Rob Tillaart",
+    "email": "rob.tillaart@gmail.com"
+  },
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/adidax/dht11.git"
+  },
+  "frameworks": "arduino",
+  "platforms": [
+    "atmelavr",
+    "atmelsam",
+    "teensy"
+  ]
+}
