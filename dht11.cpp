@@ -36,6 +36,7 @@ int dht11::read(int pin)
 	for (int i=0; i< 5; i++) bits[i] = 0;
 
 	// REQUEST SAMPLE
+	delay(1000);
 	pinMode(pin, OUTPUT);
 	digitalWrite(pin, LOW);
 	delay(18);
