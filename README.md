@@ -1,4 +1,6 @@
-# dht11
+#OUTDATED! PLEASE DO NOT USE THIS LIBRARY ANY MORE!#
+
+## dht11
 Working version of the DHT11 library for Arduino
 
 I published this one since there a lots of various versions of the DHT11 library 
